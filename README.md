@@ -19,9 +19,8 @@ SQL and Relational Databases 101
 
 # 🛠Skillsets
 Programs: HTML, CSS, Java
-IBM DB0101EN Certificate | Cognitive Class
-Cognitive Class acknowledges the following student accomplishment for SQL and Relational Databases 101
 
+ 
 <!--
 **aubreytavera-ai/aubreytavera-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
