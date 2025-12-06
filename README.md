@@ -13,7 +13,8 @@ New Era University
 ---
 
 # 📜 Certifications
-<a href="https://courses.cognitiveclass.ai/certificates/544f463e18d64168b6a0b508bcc02e50"> SQL and Relational Databases 101</a></li>
+<a href="https://courses.cognitiveclass.ai/certificates/544f463e18d64168b6a0b508bcc02e50"> SQL and Relational Databases 101</a></li>  
+
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A9B63665603A1B869B28E823409E9FA85F25ADF9E0FE38060BEBB086DEF28D9">  Oracle Cloud Infrastructure Learning Subscription</a></li>
 
 ---
