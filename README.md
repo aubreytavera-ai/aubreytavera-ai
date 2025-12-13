@@ -7,6 +7,7 @@ I am currently taking the BS Information Technology program.
 
 # 🎓 Education
 BS Information Technology
+
 New Era University
 2024 – Present
 
