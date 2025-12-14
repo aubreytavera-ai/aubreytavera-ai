@@ -18,7 +18,7 @@ New Era University
 
 <a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=6A9B63665603A1B869B28E823409E9FA85F25ADF9E0FE38060BEBB086DEF28D9">  OCI Foundations Associate (2025) </a></li>
 
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4991A085F21F5D0A8879F5BABF0FD010B95A4C9FE08035D9596CFE8FB5EBBDD5">  Oracle Data Platform Foundations Associate (2025)</a></li
+<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=4991A085F21F5D0A8879F5BABF0FD010B95A4C9FE08035D9596CFE8FB5EBBDD5">  Oracle Data Platform Foundations Associate (2025)</a></li>
                                                                                                                                                                                                      
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=33089E09CE80988F8DC4C5F35D95FDB26D7E7B5C1A14258A24864B68F28CFD7A"> Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate</a></li>
                                                                                                                                                                                                     
